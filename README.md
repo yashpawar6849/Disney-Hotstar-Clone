@@ -1,4 +1,4 @@
-# Hotstar-Clone
+# Disney+ Hotstar-Clone
 
 ![image](https://github.com/SanojAhamed/Hotstar-Clone/assets/97176600/8823e771-282e-4a00-b284-d35548c3412a)
 
